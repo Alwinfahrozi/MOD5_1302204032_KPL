@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\kpl\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL.csproj",
       "projectName": "MOD5_1302204032_KPL",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\kpl\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\kpl\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\MOD5_1302204032_KPL\\MOD5_1302204032_KPL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
