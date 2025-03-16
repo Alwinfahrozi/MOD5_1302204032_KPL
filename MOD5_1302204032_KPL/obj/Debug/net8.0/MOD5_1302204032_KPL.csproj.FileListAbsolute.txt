@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.AssemblyInfo.cs
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.sourcelink.json
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\bin\Debug\net8.0\MOD5_1302204032_KPL.exe
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\bin\Debug\net8.0\MOD5_1302204032_KPL.deps.json
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\bin\Debug\net8.0\MOD5_1302204032_KPL.runtimeconfig.json
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\bin\Debug\net8.0\MOD5_1302204032_KPL.dll
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\bin\Debug\net8.0\MOD5_1302204032_KPL.pdb
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.dll
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\refint\MOD5_1302204032_KPL.dll
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.pdb
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\MOD5_1302204032_KPL.genruntimeconfig.cache
+C:\Users\HP\source\repos\kpl\MOD5_1302204032_KPL\MOD5_1302204032_KPL\obj\Debug\net8.0\ref\MOD5_1302204032_KPL.dll
