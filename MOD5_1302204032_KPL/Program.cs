@@ -1,7 +1,7 @@
 ﻿using System;
+
 namespace GenericExample
 {
-    // Tambahkan class DataGeneric
     public class DataGeneric<T>
     {
         // Property data bertipe generic T
@@ -20,7 +20,6 @@ namespace GenericExample
         }
     }
 
-    // Membuat class HaloGeneric
     public class HaloGeneric
     {
         // Method dengan generic parameter
@@ -28,9 +27,11 @@ namespace GenericExample
         {
             Console.WriteLine($"Halo user {user}");
         }
+    }
 
-        // Method utama (main) untuk memanggil SapaUser dan menguji DataGeneric
-        public static void Main(string[] args)
+    class Program
+    {
+        static void Main(string[] args)
         {
             // Membuat objek dari class HaloGeneric
             HaloGeneric halo = new HaloGeneric();
